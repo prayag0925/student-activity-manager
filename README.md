@@ -32,3 +32,6 @@ A simple React JS project to help students add and track their daily activities.
 npm install  
 npm start
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-29 201226" src="https://github.com/user-attachments/assets/52d2f26a-819a-48af-99b6-5c1203218b02" />
+
+
